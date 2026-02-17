@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://allentownplumbingteam.com/sitemap.xml
